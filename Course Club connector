@@ -82,8 +82,7 @@ Course selectedCourse = courses[choice - 1];
     if (!found) {
         cout << "No matching clubs found.\n";
     }
-
-
    
 return 0;
 }
+//This code is open for public use.
